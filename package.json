@@ -1,0 +1,20 @@
+{
+  "name": "@projectbuilder/projectbuilder-orm-mongo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/project-builder/projectbuilder-orm-mongo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/project-builder/projectbuilder-orm-mongo/issues"
+  },
+  "homepage": "https://github.com/project-builder/projectbuilder-orm-mongo#readme"
+}
