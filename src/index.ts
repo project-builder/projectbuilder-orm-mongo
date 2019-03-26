@@ -1,5 +1,5 @@
 // #!/usr/bin/env node
-import 'idempotent-babel-polyfill'
+//import 'idempotent-babel-polyfill'
 // import "babel-polyfill";
 import { MongoClient, ObjectID} from 'mongodb';
 import * as index from './methods/index.js'
